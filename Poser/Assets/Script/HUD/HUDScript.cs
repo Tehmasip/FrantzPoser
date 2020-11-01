@@ -4,15 +4,9 @@ using UnityEngine;
 
 public class HUDScript : MonoBehaviour
 {
-    // Start is called before the first frame update
-    public void SettingButtonListeners()
+    public void SettingButton()
     {
-        
-    }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+        Debug.Log("Settings");
     }
 }
