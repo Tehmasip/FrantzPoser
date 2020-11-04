@@ -13,4 +13,20 @@ public class HUDScreen : MonoBehaviour
     {
         Debug.Log("Save Screen");
     }
+
+    public void RotateButton() 
+    {
+        Debug.Log("Rotate Button");
+    }
+    public void FishEyeLense()
+    {
+        Debug.Log("Fish Eye Lense");   
+    }
+
+
+
+
+
+
+
 }
