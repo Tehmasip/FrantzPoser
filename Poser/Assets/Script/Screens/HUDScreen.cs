@@ -22,11 +22,4 @@ public class HUDScreen : MonoBehaviour
     {
         Debug.Log("Fish Eye Lense");   
     }
-
-
-
-
-
-
-
 }
