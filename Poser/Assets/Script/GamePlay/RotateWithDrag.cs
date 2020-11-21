@@ -8,8 +8,8 @@
         public Transform SelectedJoint;//This will be the jint that we will select to rotate
         [SerializeField] private LayerMask targetLayer;
         [SerializeField] private float rotationRate = 3.0f;
-        [SerializeField] private bool xRotation;
-        [SerializeField] private bool yRotation;
+        [SerializeField] public bool xRotation;
+        [SerializeField] public bool yRotation;
         [SerializeField] private bool invertX;
         [SerializeField] private bool invertY;
         [SerializeField] private bool touchAnywhere;

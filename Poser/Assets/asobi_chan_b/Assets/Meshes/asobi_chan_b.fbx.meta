@@ -787,7 +787,7 @@ ModelImporter:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleCurves: 1
-    optimizeGameObjects: 0
+    optimizeGameObjects: 1
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -802,7 +802,99 @@ ModelImporter:
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
-    extraExposedTransformPaths: []
+    extraExposedTransformPaths:
+    - Reference
+    - Reference/Hips
+    - Reference/Hips/LeftUpLeg
+    - Reference/Hips/LeftUpLeg/LeftLeg
+    - Reference/Hips/LeftUpLeg/LeftLeg/LeftFoot
+    - Reference/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase
+    - Reference/Hips/RightUpLeg
+    - Reference/Hips/RightUpLeg/RightLeg
+    - Reference/Hips/RightUpLeg/RightLeg/RightFoot
+    - Reference/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase
+    - Reference/Hips/Spine
+    - Reference/Hips/Spine/Spine1
+    - Reference/Hips/Spine/Spine1/Spine2
+    - Reference/Hips/Spine/Spine1/Spine2/LeftShoulder
+    - Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm
+    - Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm
+    - Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+    - Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb
+    - Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb/LeftHandThumb1
+    - Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb/LeftHandThumb1/LeftHandThumb2
+    - Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb/LeftHandThumb1/LeftHandThumb2/LeftHandThumb3
+    - Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex
+    - Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex/LeftHandIndex1
+    - Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex/LeftHandIndex1/LeftHandIndex2
+    - Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3
+    - Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle
+    - Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle/LeftHandMiddle1
+    - Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle/LeftHandMiddle1/LeftHandMiddle2
+    - Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3
+    - Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing
+    - Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing/LeftHandRing1
+    - Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing/LeftHandRing1/LeftHandRing2
+    - Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing/LeftHandRing1/LeftHandRing2/LeftHandRing3
+    - Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandPinky
+    - Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandPinky/LeftHandPinky1
+    - Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandPinky/LeftHandPinky1/LeftHandPinky2
+    - Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandPinky/LeftHandPinky1/LeftHandPinky2/LeftHandPinky3
+    - Reference/Hips/Spine/Spine1/Spine2/RightShoulder
+    - Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm
+    - Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm
+    - Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand
+    - Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb
+    - Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb/RightHandThumb1
+    - Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb/RightHandThumb1/RightHandThumb2
+    - Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb/RightHandThumb1/RightHandThumb2/RightHandThumb3
+    - Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex
+    - Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex/RightHandIndex1
+    - Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex/RightHandIndex1/RightHandIndex2
+    - Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex/RightHandIndex1/RightHandIndex2/RightHandIndex3
+    - Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle
+    - Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle/RightHandMiddle1
+    - Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle/RightHandMiddle1/RightHandMiddle2
+    - Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3
+    - Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing
+    - Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing/RightHandRing1
+    - Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing/RightHandRing1/RightHandRing2
+    - Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing/RightHandRing1/RightHandRing2/RightHandRing3
+    - Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky
+    - Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky/RightHandPinky1
+    - Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky/RightHandPinky1/RightHandPinky2
+    - Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky/RightHandPinky1/RightHandPinky2/RightHandPinky3
+    - Reference/Hips/Spine/Spine1/Spine2/Neck
+    - Reference/Hips/Spine/Spine1/Spine2/Neck/Head
+    - Reference/Hips/Spine/Spine1/Spine2/Neck/Head/LeftHairSide
+    - Reference/Hips/Spine/Spine1/Spine2/Neck/Head/LeftHairSide/LeftHairSide1
+    - Reference/Hips/Spine/Spine1/Spine2/Neck/Head/LeftHairSide/LeftHairSide1/LeftHairSide2
+    - Reference/Hips/Spine/Spine1/Spine2/Neck/Head/RightHairSide
+    - Reference/Hips/Spine/Spine1/Spine2/Neck/Head/RightHairSide/RightHairSide1
+    - Reference/Hips/Spine/Spine1/Spine2/Neck/Head/RightHairSide/RightHairSide1/RightHairSide2
+    - Reference/Hips/Spine/Spine1/Spine2/Neck/Head/LeftHairFront
+    - Reference/Hips/Spine/Spine1/Spine2/Neck/Head/LeftHairFront/LeftHairFront1
+    - Reference/Hips/Spine/Spine1/Spine2/Neck/Head/RightHairFront
+    - Reference/Hips/Spine/Spine1/Spine2/Neck/Head/RightHairFront/RightHairFront1
+    - Reference/Hips/Spine/Spine1/Spine2/Neck/Head/HairTail
+    - Reference/Hips/Spine/Spine1/Spine2/Neck/Head/HairTail/HairTail1
+    - Reference/Hips/Spine/Spine1/Spine2/Neck/Head/HairTail/HairTail1/HairTail2
+    - Reference/Hips/Spine/Spine1/Spine2/Neck/Head/HairTail/HairTail1/HairTail2/HairTail3
+    - Reference/Hips/Spine/Spine1/Breast
+    - Reference/Hips/Spine/Spine1/Breast/Breast1
+    - Reference/Hips/Spine/Spine1/Breast/RightBreast
+    - Reference/Hips/Spine/Spine1/Breast/RightBreast/RightBreast1
+    - Reference/Hips/Spine/Spine1/Breast/RightBreast/RightBreast1/RightBreast2
+    - Reference/Hips/Spine/Spine1/Breast/LeftBreast
+    - Reference/Hips/Spine/Spine1/Breast/LeftBreast/LeftBreast1
+    - Reference/Hips/Spine/Spine1/Breast/LeftBreast/LeftBreast1/LeftBreast2
+    - mesh
+    - mesh/mesh_hand
+    - mesh/mesh_hair
+    - mesh/mesh_body
+    - mesh/mesh_pouch
+    - mesh/mesh_face
+    - mesh/mesh_eye
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
