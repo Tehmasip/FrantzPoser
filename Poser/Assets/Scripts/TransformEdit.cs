@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class TransformEdit : MonoBehaviour
 {
-    public float ScaleFactor = 0.1f;
+
+    public float ScaleFactor = 7f;
     public GameObject CircleSpritePref;
     public GameObject SquarePref;
     private GameObject XaxisCircle = null;
@@ -80,7 +81,9 @@ public class TransformEdit : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        float Size = (Camera.main.transform.position - transform.position).magnitude * ScaleFactor;
-        ParentObject.transform.localScale = new Vector3(Size, Size, Size);
+        //float Size = (Camera.main.transform.position - transform.position).magnitude * ScaleFactor;
+        float Size = Camera.main.orthographicSize * 2f;
+        
+        ParentObject.transform.localScale = Vector3.one * Size / (6f * ScaleFactor);
     }
 }

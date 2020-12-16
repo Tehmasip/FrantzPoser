@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class SelectJoints : MonoBehaviour
 {
-    List<GameObject> MyJoints = null;
+    public List<GameObject> MyJoints = null;
     // Start is called before the first frame update
     private void Awake()
     {
@@ -17,6 +17,14 @@ public class SelectJoints : MonoBehaviour
             SphereCollider CurrentCollider = J.AddComponent<SphereCollider>();
             CurrentCollider.radius = 0.05f;
             CurrentEdit.CreateTransforms();
+        }
+    }
+    public void FlipactiveStates(bool State)
+    {
+        foreach(GameObject J in MyJoints)
+        {
+            SphereCollider PaObj = J.GetComponent<SphereCollider>();
+            PaObj.enabled = State;
         }
     }
 

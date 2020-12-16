@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Joint
+  - TransEdit
   layers:
   - Default
   - TransparentFX
