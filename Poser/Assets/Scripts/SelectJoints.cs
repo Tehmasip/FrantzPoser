@@ -4,18 +4,29 @@ using UnityEngine;
 
 public class SelectJoints : MonoBehaviour
 {
+    public Animator myanim;
     public List<GameObject> MyJoints = null;
+    
     // Start is called before the first frame update
-    private void Awake()
+    private void OnEnable()
     {
         MyJoints = new List<GameObject>();
         GetAllJointsInList(gameObject);
+        CanvasManager canvasManager = GameObject.FindObjectOfType<CanvasManager>();
+
+        GameObject square = canvasManager.Squareprefeb;
+        GameObject circle = canvasManager.CirclePrefeb;
+
+        //Get prefebs axis and circle
         foreach(GameObject J in MyJoints)
         {
             J.layer = 9;
             TransformEdit CurrentEdit = J.AddComponent<TransformEdit>();
             SphereCollider CurrentCollider = J.AddComponent<SphereCollider>();
             CurrentCollider.radius = 0.05f;
+            CurrentEdit.SquarePref = square;
+            CurrentEdit.CircleSpritePref = circle;
+
             CurrentEdit.CreateTransforms();
         }
     }
