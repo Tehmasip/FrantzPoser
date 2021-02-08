@@ -7,13 +7,13 @@ public class CameraScript2 : MonoBehaviour
 {
     [Header("Camera Controls Variables")]
     public GameObject CurrentCameraTarget=null;
-    public float MinimumOutZoom = 1;
-    public float MaximumOutZoom = 180f;
+    public float MinimumOutZoom = 40;
+    public float MaximumOutZoom = 100f;
     public GameObject CurrentTargetObject = null;
-    public float PaningSpeed = 10f;
+    public float PaningSpeed = 3f;
     public float CameraRotationSpeed = 10f;
     Vector3 CameraRotationDirection;
-    public float CameraZoomSpeed = 10f;
+    public float CameraZoomSpeed = 3f;
     public bool CameraRotating = false;
     public bool CameraPaning = false;
     public float ScrollScaleFactor = 0.1f;
