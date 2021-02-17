@@ -5,6 +5,8 @@ using UnityEngine;
 public class EnvironmentHandler : MonoBehaviour
 {
     public GameObject[] envs;
+
+    public Material[] SkyMaterials;
     // Start is called before the first frame update
     int i;
 
@@ -28,5 +30,16 @@ public class EnvironmentHandler : MonoBehaviour
             i = envs.Length-1;
 
         envs[i].SetActive(true);
+    }
+    bool con =true;
+    public void SkyMatShift()
+    {
+        if (con == true)
+            Camera.main.clearFlags = CameraClearFlags.Skybox;
+        else
+             Camera.main.clearFlags = CameraClearFlags.SolidColor;
+
+        con = !con;
+
     }
 }
