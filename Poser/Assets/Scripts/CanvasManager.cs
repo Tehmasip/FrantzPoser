@@ -76,7 +76,7 @@ public class CanvasManager : MonoBehaviour
 
         EnableMoverOnPlayer(EditGameObj[i]);
 
-        MoverGameObject.GetComponent<TargetCarry>().Target = EditGameObj[i].transform.parent;
+        MoverGameObject.GetComponent<TargetCarry>().Target = EditGameObj[i].transform.parent.parent;
     }
     private void Update()
     {
@@ -139,5 +139,13 @@ public class CanvasManager : MonoBehaviour
     {
         currentAnimator.Play(Anim[index], 0, bar.value);
         currentAnimator.speed = 0;
+    }
+    public void SetMoverDisplay()
+    {
+        if (MoverGameObject.activeSelf)
+            MoverGameObject.SetActive(false);
+        else
+
+            MoverGameObject.SetActive(true);
     }
 }
