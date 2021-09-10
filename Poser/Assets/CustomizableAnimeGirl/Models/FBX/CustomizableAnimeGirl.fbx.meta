@@ -1,0 +1,644 @@
+fileFormatVersion: 2
+guid: 626b799a2abf9954a8a89baa70dc16ce
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bone
+    100002: breast.L
+    100004: breast.L.001
+    100006: breast.L.002
+    100008: breast.L.002_end
+    100010: breast.R
+    100012: breast.R.001
+    100014: breast.R.002
+    100016: breast.R.002_end
+    100018: chest
+    100020: //RootNode
+    100022: distal index.L
+    100024: distal index.L_end
+    100026: distal index.R
+    100028: distal index.R_end
+    100030: distal little.L
+    100032: distal little.L_end
+    100034: distal little.R
+    100036: distal little.R_end
+    100038: distal middle.L
+    100040: distal middle.L_end
+    100042: distal middle.R
+    100044: distal middle.R_end
+    100046: distal ring.L
+    100048: distal ring.L_end
+    100050: distal ring.R
+    100052: distal ring.R_end
+    100054: distal thumb.L
+    100056: distal thumb.L_end
+    100058: distal thumb.R
+    100060: distal thumb.R_end
+    100062: Eye
+    100064: eye.L
+    100066: eye.L_end
+    100068: eye.R
+    100070: eye.R_end
+    100072: Eyebrows
+    100074: Eyelashes
+    100076: Face
+    100078: foot.L
+    100080: foot.R
+    100082: forearm.L
+    100084: forearm.R
+    100086: hair_b.001
+    100088: hair_b.002
+    100090: hair_b.003
+    100092: hair_b.004
+    100094: hair_b.004_end
+    100096: hair_b.L.001
+    100098: hair_b.L.002
+    100100: hair_b.L.003
+    100102: hair_b.L.004
+    100104: hair_b.L.004_end
+    100106: hair_b.R.001
+    100108: hair_b.R.002
+    100110: hair_b.R.003
+    100112: hair_b.R.004
+    100114: hair_b.R.004_end
+    100116: hair_f
+    100118: hair_f.L
+    100120: hair_f.L_end
+    100122: hair_f.R
+    100124: hair_f.R_end
+    100126: hair_f_end
+    100128: hair_p.001
+    100130: hair_p.002
+    100132: hair_p.003
+    100134: hair_p.003_end
+    100136: hair_s.L.001
+    100138: hair_s.L.002
+    100140: hair_s.L.002_end
+    100142: hair_s.R.001
+    100144: hair_s.R.002
+    100146: hair_s.R.002_end
+    100148: hand.L
+    100150: hand.R
+    100152: head
+    100154: hips
+    100156: intermediate index.L
+    100158: intermediate index.R
+    100160: intermediate little.L
+    100162: intermediate little.R
+    100164: intermediate middle.L
+    100166: intermediate middle.R
+    100168: intermediate ring.L
+    100170: intermediate ring.R
+    100172: intermediate thumb.L
+    100174: intermediate thumb.R
+    100176: LBody_0
+    100178: LBody_1
+    100180: LBody_2
+    100182: Legs
+    100184: neck
+    100186: proximal index.L
+    100188: proximal index.R
+    100190: proximal little.L
+    100192: proximal little.R
+    100194: proximal middle.L
+    100196: proximal middle.R
+    100198: proximal ring.L
+    100200: proximal ring.R
+    100202: proximal thumb.L
+    100204: proximal thumb.R
+    100206: shin.L
+    100208: shin.R
+    100210: shoulder.L
+    100212: shoulder.R
+    100214: skirt.L.001_01
+    100216: skirt.L.001_02
+    100218: skirt.L.001_03
+    100220: skirt.L.001_04
+    100222: skirt.L.001_05
+    100224: skirt.L.001_06
+    100226: skirt.L.001_06_end
+    100228: skirt.L.002_01
+    100230: skirt.L.002_02
+    100232: skirt.L.002_03
+    100234: skirt.L.002_04
+    100236: skirt.L.002_05
+    100238: skirt.L.002_06
+    100240: skirt.L.002_06_end
+    100242: skirt.L.003_01
+    100244: skirt.L.003_02
+    100246: skirt.L.003_03
+    100248: skirt.L.003_04
+    100250: skirt.L.003_05
+    100252: skirt.L.003_06
+    100254: skirt.L.003_06_end
+    100256: skirt.L.004_01
+    100258: skirt.L.004_02
+    100260: skirt.L.004_03
+    100262: skirt.L.004_04
+    100264: skirt.L.004_05
+    100266: skirt.L.004_06
+    100268: skirt.L.004_06_end
+    100270: skirt.L.005_01
+    100272: skirt.L.005_02
+    100274: skirt.L.005_03
+    100276: skirt.L.005_04
+    100278: skirt.L.005_05
+    100280: skirt.L.005_06
+    100282: skirt.L.005_06_end
+    100284: skirt.L.006_01
+    100286: skirt.L.006_02
+    100288: skirt.L.006_03
+    100290: skirt.L.006_04
+    100292: skirt.L.006_05
+    100294: skirt.L.006_06
+    100296: skirt.L.006_06_end
+    100298: skirt.L.007_01
+    100300: skirt.L.007_02
+    100302: skirt.L.007_03
+    100304: skirt.L.007_04
+    100306: skirt.L.007_05
+    100308: skirt.L.007_06
+    100310: skirt.L.007_06_end
+    100312: skirt.L.008_01
+    100314: skirt.L.008_02
+    100316: skirt.L.008_03
+    100318: skirt.L.008_04
+    100320: skirt.L.008_05
+    100322: skirt.L.008_06
+    100324: skirt.L.008_06_end
+    100326: skirt.L.009_01
+    100328: skirt.L.009_02
+    100330: skirt.L.009_03
+    100332: skirt.L.009_04
+    100334: skirt.L.009_05
+    100336: skirt.L.009_06
+    100338: skirt.L.009_06_end
+    100340: skirt.L.010_01
+    100342: skirt.L.010_02
+    100344: skirt.L.010_03
+    100346: skirt.L.010_04
+    100348: skirt.L.010_05
+    100350: skirt.L.010_06
+    100352: skirt.L.010_06_end
+    100354: skirt.R.001_01
+    100356: skirt.R.001_02
+    100358: skirt.R.001_03
+    100360: skirt.R.001_04
+    100362: skirt.R.001_05
+    100364: skirt.R.001_06
+    100366: skirt.R.001_06_end
+    100368: skirt.R.002_01
+    100370: skirt.R.002_02
+    100372: skirt.R.002_03
+    100374: skirt.R.002_04
+    100376: skirt.R.002_05
+    100378: skirt.R.002_06
+    100380: skirt.R.002_06_end
+    100382: skirt.R.003_01
+    100384: skirt.R.003_02
+    100386: skirt.R.003_03
+    100388: skirt.R.003_04
+    100390: skirt.R.003_05
+    100392: skirt.R.003_06
+    100394: skirt.R.003_06_end
+    100396: skirt.R.004_01
+    100398: skirt.R.004_02
+    100400: skirt.R.004_03
+    100402: skirt.R.004_04
+    100404: skirt.R.004_05
+    100406: skirt.R.004_06
+    100408: skirt.R.004_06_end
+    100410: skirt.R.005_01
+    100412: skirt.R.005_02
+    100414: skirt.R.005_03
+    100416: skirt.R.005_04
+    100418: skirt.R.005_05
+    100420: skirt.R.005_06
+    100422: skirt.R.005_06_end
+    100424: skirt.R.006_01
+    100426: skirt.R.006_02
+    100428: skirt.R.006_03
+    100430: skirt.R.006_04
+    100432: skirt.R.006_05
+    100434: skirt.R.006_06
+    100436: skirt.R.006_06_end
+    100438: skirt.R.007_01
+    100440: skirt.R.007_02
+    100442: skirt.R.007_03
+    100444: skirt.R.007_04
+    100446: skirt.R.007_05
+    100448: skirt.R.007_06
+    100450: skirt.R.007_06_end
+    100452: skirt.R.008_01
+    100454: skirt.R.008_02
+    100456: skirt.R.008_03
+    100458: skirt.R.008_04
+    100460: skirt.R.008_05
+    100462: skirt.R.008_06
+    100464: skirt.R.008_06_end
+    100466: skirt.R.009_01
+    100468: skirt.R.009_02
+    100470: skirt.R.009_03
+    100472: skirt.R.009_04
+    100474: skirt.R.009_05
+    100476: skirt.R.009_06
+    100478: skirt.R.009_06_end
+    100480: skirt.R.010_01
+    100482: skirt.R.010_02
+    100484: skirt.R.010_03
+    100486: skirt.R.010_04
+    100488: skirt.R.010_05
+    100490: skirt.R.010_06
+    100492: skirt.R.010_06_end
+    100494: spine
+    100496: thigh.L
+    100498: thigh.R
+    100500: toe.L
+    100502: toe.L_end
+    100504: toe.R
+    100506: toe.R_end
+    100508: UBody_0
+    100510: UBody_1
+    100512: UBody_2
+    100514: upper_arm.L
+    100516: upper_arm.R
+    100518: upperchest
+    400000: bone
+    400002: breast.L
+    400004: breast.L.001
+    400006: breast.L.002
+    400008: breast.L.002_end
+    400010: breast.R
+    400012: breast.R.001
+    400014: breast.R.002
+    400016: breast.R.002_end
+    400018: chest
+    400020: //RootNode
+    400022: distal index.L
+    400024: distal index.L_end
+    400026: distal index.R
+    400028: distal index.R_end
+    400030: distal little.L
+    400032: distal little.L_end
+    400034: distal little.R
+    400036: distal little.R_end
+    400038: distal middle.L
+    400040: distal middle.L_end
+    400042: distal middle.R
+    400044: distal middle.R_end
+    400046: distal ring.L
+    400048: distal ring.L_end
+    400050: distal ring.R
+    400052: distal ring.R_end
+    400054: distal thumb.L
+    400056: distal thumb.L_end
+    400058: distal thumb.R
+    400060: distal thumb.R_end
+    400062: Eye
+    400064: eye.L
+    400066: eye.L_end
+    400068: eye.R
+    400070: eye.R_end
+    400072: Eyebrows
+    400074: Eyelashes
+    400076: Face
+    400078: foot.L
+    400080: foot.R
+    400082: forearm.L
+    400084: forearm.R
+    400086: hair_b.001
+    400088: hair_b.002
+    400090: hair_b.003
+    400092: hair_b.004
+    400094: hair_b.004_end
+    400096: hair_b.L.001
+    400098: hair_b.L.002
+    400100: hair_b.L.003
+    400102: hair_b.L.004
+    400104: hair_b.L.004_end
+    400106: hair_b.R.001
+    400108: hair_b.R.002
+    400110: hair_b.R.003
+    400112: hair_b.R.004
+    400114: hair_b.R.004_end
+    400116: hair_f
+    400118: hair_f.L
+    400120: hair_f.L_end
+    400122: hair_f.R
+    400124: hair_f.R_end
+    400126: hair_f_end
+    400128: hair_p.001
+    400130: hair_p.002
+    400132: hair_p.003
+    400134: hair_p.003_end
+    400136: hair_s.L.001
+    400138: hair_s.L.002
+    400140: hair_s.L.002_end
+    400142: hair_s.R.001
+    400144: hair_s.R.002
+    400146: hair_s.R.002_end
+    400148: hand.L
+    400150: hand.R
+    400152: head
+    400154: hips
+    400156: intermediate index.L
+    400158: intermediate index.R
+    400160: intermediate little.L
+    400162: intermediate little.R
+    400164: intermediate middle.L
+    400166: intermediate middle.R
+    400168: intermediate ring.L
+    400170: intermediate ring.R
+    400172: intermediate thumb.L
+    400174: intermediate thumb.R
+    400176: LBody_0
+    400178: LBody_1
+    400180: LBody_2
+    400182: Legs
+    400184: neck
+    400186: proximal index.L
+    400188: proximal index.R
+    400190: proximal little.L
+    400192: proximal little.R
+    400194: proximal middle.L
+    400196: proximal middle.R
+    400198: proximal ring.L
+    400200: proximal ring.R
+    400202: proximal thumb.L
+    400204: proximal thumb.R
+    400206: shin.L
+    400208: shin.R
+    400210: shoulder.L
+    400212: shoulder.R
+    400214: skirt.L.001_01
+    400216: skirt.L.001_02
+    400218: skirt.L.001_03
+    400220: skirt.L.001_04
+    400222: skirt.L.001_05
+    400224: skirt.L.001_06
+    400226: skirt.L.001_06_end
+    400228: skirt.L.002_01
+    400230: skirt.L.002_02
+    400232: skirt.L.002_03
+    400234: skirt.L.002_04
+    400236: skirt.L.002_05
+    400238: skirt.L.002_06
+    400240: skirt.L.002_06_end
+    400242: skirt.L.003_01
+    400244: skirt.L.003_02
+    400246: skirt.L.003_03
+    400248: skirt.L.003_04
+    400250: skirt.L.003_05
+    400252: skirt.L.003_06
+    400254: skirt.L.003_06_end
+    400256: skirt.L.004_01
+    400258: skirt.L.004_02
+    400260: skirt.L.004_03
+    400262: skirt.L.004_04
+    400264: skirt.L.004_05
+    400266: skirt.L.004_06
+    400268: skirt.L.004_06_end
+    400270: skirt.L.005_01
+    400272: skirt.L.005_02
+    400274: skirt.L.005_03
+    400276: skirt.L.005_04
+    400278: skirt.L.005_05
+    400280: skirt.L.005_06
+    400282: skirt.L.005_06_end
+    400284: skirt.L.006_01
+    400286: skirt.L.006_02
+    400288: skirt.L.006_03
+    400290: skirt.L.006_04
+    400292: skirt.L.006_05
+    400294: skirt.L.006_06
+    400296: skirt.L.006_06_end
+    400298: skirt.L.007_01
+    400300: skirt.L.007_02
+    400302: skirt.L.007_03
+    400304: skirt.L.007_04
+    400306: skirt.L.007_05
+    400308: skirt.L.007_06
+    400310: skirt.L.007_06_end
+    400312: skirt.L.008_01
+    400314: skirt.L.008_02
+    400316: skirt.L.008_03
+    400318: skirt.L.008_04
+    400320: skirt.L.008_05
+    400322: skirt.L.008_06
+    400324: skirt.L.008_06_end
+    400326: skirt.L.009_01
+    400328: skirt.L.009_02
+    400330: skirt.L.009_03
+    400332: skirt.L.009_04
+    400334: skirt.L.009_05
+    400336: skirt.L.009_06
+    400338: skirt.L.009_06_end
+    400340: skirt.L.010_01
+    400342: skirt.L.010_02
+    400344: skirt.L.010_03
+    400346: skirt.L.010_04
+    400348: skirt.L.010_05
+    400350: skirt.L.010_06
+    400352: skirt.L.010_06_end
+    400354: skirt.R.001_01
+    400356: skirt.R.001_02
+    400358: skirt.R.001_03
+    400360: skirt.R.001_04
+    400362: skirt.R.001_05
+    400364: skirt.R.001_06
+    400366: skirt.R.001_06_end
+    400368: skirt.R.002_01
+    400370: skirt.R.002_02
+    400372: skirt.R.002_03
+    400374: skirt.R.002_04
+    400376: skirt.R.002_05
+    400378: skirt.R.002_06
+    400380: skirt.R.002_06_end
+    400382: skirt.R.003_01
+    400384: skirt.R.003_02
+    400386: skirt.R.003_03
+    400388: skirt.R.003_04
+    400390: skirt.R.003_05
+    400392: skirt.R.003_06
+    400394: skirt.R.003_06_end
+    400396: skirt.R.004_01
+    400398: skirt.R.004_02
+    400400: skirt.R.004_03
+    400402: skirt.R.004_04
+    400404: skirt.R.004_05
+    400406: skirt.R.004_06
+    400408: skirt.R.004_06_end
+    400410: skirt.R.005_01
+    400412: skirt.R.005_02
+    400414: skirt.R.005_03
+    400416: skirt.R.005_04
+    400418: skirt.R.005_05
+    400420: skirt.R.005_06
+    400422: skirt.R.005_06_end
+    400424: skirt.R.006_01
+    400426: skirt.R.006_02
+    400428: skirt.R.006_03
+    400430: skirt.R.006_04
+    400432: skirt.R.006_05
+    400434: skirt.R.006_06
+    400436: skirt.R.006_06_end
+    400438: skirt.R.007_01
+    400440: skirt.R.007_02
+    400442: skirt.R.007_03
+    400444: skirt.R.007_04
+    400446: skirt.R.007_05
+    400448: skirt.R.007_06
+    400450: skirt.R.007_06_end
+    400452: skirt.R.008_01
+    400454: skirt.R.008_02
+    400456: skirt.R.008_03
+    400458: skirt.R.008_04
+    400460: skirt.R.008_05
+    400462: skirt.R.008_06
+    400464: skirt.R.008_06_end
+    400466: skirt.R.009_01
+    400468: skirt.R.009_02
+    400470: skirt.R.009_03
+    400472: skirt.R.009_04
+    400474: skirt.R.009_05
+    400476: skirt.R.009_06
+    400478: skirt.R.009_06_end
+    400480: skirt.R.010_01
+    400482: skirt.R.010_02
+    400484: skirt.R.010_03
+    400486: skirt.R.010_04
+    400488: skirt.R.010_05
+    400490: skirt.R.010_06
+    400492: skirt.R.010_06_end
+    400494: spine
+    400496: thigh.L
+    400498: thigh.R
+    400500: toe.L
+    400502: toe.L_end
+    400504: toe.R
+    400506: toe.R_end
+    400508: UBody_0
+    400510: UBody_1
+    400512: UBody_2
+    400514: upper_arm.L
+    400516: upper_arm.R
+    400518: upperchest
+    2100000: Body
+    2100002: Eyelashes
+    2100004: Eye
+    2100006: Face
+    2100008: Oral
+    2100010: EyeWhite
+    2100012: Lips
+    2100014: EyeShadow
+    2100016: Eyebrows
+    2100018: Legs
+    4300000: LBody_0
+    4300002: Eyelashes
+    4300004: Eye
+    4300006: Face
+    4300008: Eyebrows
+    4300010: UBody_0
+    4300012: Legs
+    4300014: LBody_1
+    4300016: LBody_2
+    4300018: UBody_1
+    4300020: UBody_2
+    9500000: //RootNode
+    13700000: Eye
+    13700002: Eyebrows
+    13700004: Eyelashes
+    13700006: Face
+    13700008: LBody_0
+    13700010: LBody_1
+    13700012: LBody_2
+    13700014: Legs
+    13700016: UBody_0
+    13700018: UBody_1
+    13700020: UBody_2
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

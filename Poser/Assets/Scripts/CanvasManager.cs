@@ -104,12 +104,14 @@ public class CanvasManager : MonoBehaviour
 
         CamButton.SetActive(false);
         BobyControlButton.SetActive(true);
+        SetMoverDisplay();
     }
     public void SwitchToPlayer()
     {
         FlipCameraControls();
         CamButton.SetActive(true);
         BobyControlButton.SetActive(false);
+        SetMoverDisplay();
     }
     public Animator currentAnimator;
     public string[] Anim;

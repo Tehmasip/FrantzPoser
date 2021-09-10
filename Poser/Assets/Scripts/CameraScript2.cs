@@ -120,11 +120,11 @@ public class CameraScript2 : MonoBehaviour
     {
         if (IsCameraBiengControles)
         {
-            if ((Input.GetMouseButtonDown(1)) || (Input.touchCount == 1 && Input.GetTouch(0).phase == TouchPhase.Began))
+            if ((Input.GetMouseButtonDown(0)) || (Input.touchCount == 1 && Input.GetTouch(0).phase == TouchPhase.Began))
             {
                 CameraRotating = true;
 
-                if (Input.touchCount == 1)
+                if(Input.touchCount == 1)
                 {
                     CameraRotatingMouseFirstPosition = Camera.main.ScreenToViewportPoint(Input.GetTouch(0).position);
                 }
@@ -135,7 +135,7 @@ public class CameraScript2 : MonoBehaviour
                 //rotation
 
             }
-            if ((Input.GetMouseButton(1) || (Input.touchCount == 1 && (Input.GetTouch(0).phase == TouchPhase.Moved || Input.GetTouch(0).phase == TouchPhase.Stationary))) && CameraRotating)
+            if ((Input.GetMouseButton(0) || (Input.touchCount == 1 && (Input.GetTouch(0).phase == TouchPhase.Moved || Input.GetTouch(0).phase == TouchPhase.Stationary))) && CameraRotating)
             {
                 //Vector3 MouseMovement = new Vector3(Input.GetAxis("Mouse Y"), -Input.GetAxis("Mouse X"), 0f);
                 CameraRotatingMouseSecondPosition = Camera.main.ScreenToViewportPoint(Input.mousePosition);
@@ -143,25 +143,23 @@ public class CameraScript2 : MonoBehaviour
                 CameraRotatingAround(CameraRotationDirection);
                 CameraRotatingMouseFirstPosition = CameraRotatingMouseSecondPosition;
             }
-            if ((Input.GetMouseButtonUp(1) || (Input.touchCount == 1 && Input.GetTouch(0).phase == TouchPhase.Ended)) && CameraRotating)
+            if ((Input.GetMouseButtonUp(0) || (Input.touchCount == 1 && Input.GetTouch(0).phase == TouchPhase.Ended)) && CameraRotating)
             {
                 CameraRotating = false;
             }
 
-            if ((Input.GetMouseButtonDown(2)) || (Input.touchCount == 2 && (Input.GetTouch(0).phase == TouchPhase.Began || Input.GetTouch(1).phase == TouchPhase.Began)))
+            if ((Input.GetMouseButtonDown(1)) || (Input.touchCount == 2 && (Input.GetTouch(0).phase == TouchPhase.Began || Input.GetTouch(1).phase == TouchPhase.Began)))
             {
                 CameraPaning = true;
                 //rotation
 
             }
-            if ((Input.GetMouseButton(2) || (Input.touchCount == 2 && (Input.GetTouch(0).phase == TouchPhase.Moved || Input.GetTouch(0).phase == TouchPhase.Stationary || Input.GetTouch(1).phase == TouchPhase.Moved || Input.GetTouch(1).phase == TouchPhase.Stationary))) && CameraPaning)
+            if ((Input.GetMouseButton(1) || (Input.touchCount == 2 && (Input.GetTouch(0).phase == TouchPhase.Moved || Input.GetTouch(0).phase == TouchPhase.Stationary || Input.GetTouch(1).phase == TouchPhase.Moved || Input.GetTouch(1).phase == TouchPhase.Stationary))) && CameraPaning)
             {
                 Vector3 MouseMovement = new Vector3(-Input.GetAxis("Mouse X"), -Input.GetAxis("Mouse Y"), 0f);
                 Camera.main.transform.Translate(MouseMovement * Time.deltaTime * PaningSpeed, Space.Self);
-
-
             }
-            if ((Input.GetMouseButtonUp(2) || (Input.touchCount == 2 && (Input.GetTouch(0).phase == TouchPhase.Ended || Input.GetTouch(1).phase == TouchPhase.Ended))) && CameraPaning)
+            if ((Input.GetMouseButtonUp(1) || (Input.touchCount == 2 && (Input.GetTouch(0).phase == TouchPhase.Ended || Input.GetTouch(1).phase == TouchPhase.Ended))) && CameraPaning)
             {
                 CameraPaning = false;
             }
