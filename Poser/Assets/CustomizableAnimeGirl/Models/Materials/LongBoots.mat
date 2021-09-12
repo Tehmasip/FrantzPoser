@@ -261,3 +261,4 @@ Material:
     - _RimLightColor: {r: 1, g: 1, b: 1, a: 1}
     - _ShadowColor: {r: 0.71707016, g: 0.70879316, b: 0.8301887, a: 1}
     - _ViewShift: {r: 0, g: 0, b: 0, a: 1}
+  m_BuildTextureStacks: []

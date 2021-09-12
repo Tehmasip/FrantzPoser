@@ -47,7 +47,7 @@ namespace CustomizableAnimeGirl
             }
 
             // 右ドラッグでカメラ回転
-            if (Input.GetMouseButton(1))
+            if (Input.GetMouseButton(0))
             {
                 float mouseInputX = Input.GetAxis("Mouse X");
                 float mouseInputY = Input.GetAxis("Mouse Y");
@@ -60,7 +60,7 @@ namespace CustomizableAnimeGirl
             transform.position += transform.forward * scroll * cameraZoomSpeed;
 
             // ホイールクリックでカメラ移動
-            if (Input.GetMouseButton(2))
+            if (Input.GetMouseButton(1))
             {
                 float mouseInputX = Input.GetAxis("Mouse X");
                 float mouseInputY = Input.GetAxis("Mouse Y");
