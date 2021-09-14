@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 9c691a4826e55964ebc384f1c3226f16
+timeCreated: 1566995096
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _yure_hair_h_F01a
+    100002: _yure_hair_h_F01a 1
+    100004: _yure_hair_h_F01b
+    100006: _yure_hair_h_F01b 1
+    100008: _yure_hair_h_F01b_end
+    100010: _yure_hair_h_F02a
+    100012: _yure_hair_h_F02a 1
+    100014: _yure_hair_h_F02a_end
+    100016: _yure_hair_h_F03a
+    100018: _yure_hair_h_F03a 1
+    100020: _yure_hair_h_F03b
+    100022: _yure_hair_h_F03b 1
+    100024: _yure_hair_h_F03c
+    100026: _yure_hair_h_F03c 1
+    100028: _yure_hair_h_F03c_end
+    100030: _yure_hair_h_F04a
+    100032: _yure_hair_h_F04a 1
+    100034: _yure_hair_h_F04b
+    100036: _yure_hair_h_F04b 1
+    100038: _yure_hair_h_F04b_end
+    100040: _yure_hair_h_F05a
+    100042: _yure_hair_h_F05a 1
+    100044: _yure_hair_h_F05b
+    100046: _yure_hair_h_F05b 1
+    100048: _yure_hair_h_F05b_end
+    100050: _yure_hair_h_F06a
+    100052: _yure_hair_h_F06a 1
+    100054: _yure_hair_h_F06b
+    100056: _yure_hair_h_F06b 1
+    100058: _yure_hair_h_F06b_end
+    100060: Bone_Face
+    100062: //RootNode
+    100064: Hair_R
+    100066: Hair_R_end
+    100068: HairF
+    100070: J._yure_hair_h_F01b
+    100072: J._yure_hair_h_F03b
+    100074: J._yure_hair_h_F03c
+    100076: J._yure_hair_h_F04b
+    100078: J._yure_hair_h_F05b
+    100080: J._yure_hair_h_F06b
+    100082: joints
+    100084: rigidbodies
+    100086: "\u59B9\u6296"
+    100088: "\u59B9\u6296_arm"
+    100090: "\u59B9\u6296_mesh"
+    400000: _yure_hair_h_F01a
+    400002: _yure_hair_h_F01a 1
+    400004: _yure_hair_h_F01b
+    400006: _yure_hair_h_F01b 1
+    400008: _yure_hair_h_F01b_end
+    400010: _yure_hair_h_F02a
+    400012: _yure_hair_h_F02a 1
+    400014: _yure_hair_h_F02a_end
+    400016: _yure_hair_h_F03a
+    400018: _yure_hair_h_F03a 1
+    400020: _yure_hair_h_F03b
+    400022: _yure_hair_h_F03b 1
+    400024: _yure_hair_h_F03c
+    400026: _yure_hair_h_F03c 1
+    400028: _yure_hair_h_F03c_end
+    400030: _yure_hair_h_F04a
+    400032: _yure_hair_h_F04a 1
+    400034: _yure_hair_h_F04b
+    400036: _yure_hair_h_F04b 1
+    400038: _yure_hair_h_F04b_end
+    400040: _yure_hair_h_F05a
+    400042: _yure_hair_h_F05a 1
+    400044: _yure_hair_h_F05b
+    400046: _yure_hair_h_F05b 1
+    400048: _yure_hair_h_F05b_end
+    400050: _yure_hair_h_F06a
+    400052: _yure_hair_h_F06a 1
+    400054: _yure_hair_h_F06b
+    400056: _yure_hair_h_F06b 1
+    400058: _yure_hair_h_F06b_end
+    400060: Bone_Face
+    400062: //RootNode
+    400064: Hair_R
+    400066: Hair_R_end
+    400068: HairF
+    400070: J._yure_hair_h_F01b
+    400072: J._yure_hair_h_F03b
+    400074: J._yure_hair_h_F03c
+    400076: J._yure_hair_h_F04b
+    400078: J._yure_hair_h_F05b
+    400080: J._yure_hair_h_F06b
+    400082: joints
+    400084: rigidbodies
+    400086: "\u59B9\u6296"
+    400088: "\u59B9\u6296_arm"
+    400090: "\u59B9\u6296_mesh"
+    2300000: _yure_hair_h_F01a
+    2300002: _yure_hair_h_F01b
+    2300004: _yure_hair_h_F02a
+    2300006: _yure_hair_h_F03a
+    2300008: _yure_hair_h_F03b
+    2300010: _yure_hair_h_F03c
+    2300012: _yure_hair_h_F04a
+    2300014: _yure_hair_h_F04b
+    2300016: _yure_hair_h_F05a
+    2300018: _yure_hair_h_F05b
+    2300020: _yure_hair_h_F06a
+    2300022: _yure_hair_h_F06b
+    3300000: _yure_hair_h_F01a
+    3300002: _yure_hair_h_F01b
+    3300004: _yure_hair_h_F02a
+    3300006: _yure_hair_h_F03a
+    3300008: _yure_hair_h_F03b
+    3300010: _yure_hair_h_F03c
+    3300012: _yure_hair_h_F04a
+    3300014: _yure_hair_h_F04b
+    3300016: _yure_hair_h_F05a
+    3300018: _yure_hair_h_F05b
+    3300020: _yure_hair_h_F06a
+    3300022: _yure_hair_h_F06b
+    4300000: _yure_hair_h_F02a
+    4300002: _yure_hair_h_F05b
+    4300004: _yure_hair_h_F04b
+    4300006: _yure_hair_h_F04a
+    4300008: _yure_hair_h_F05a
+    4300010: _yure_hair_h_F03c
+    4300012: _yure_hair_h_F03b
+    4300014: _yure_hair_h_F03a
+    4300016: _yure_hair_h_F06b
+    4300018: _yure_hair_h_F06a
+    4300020: _yure_hair_h_F01b
+    4300022: _yure_hair_h_F01a
+    4300024: "\u59B9\u6296_mesh"
+    9500000: //RootNode
+    13700000: "\u59B9\u6296_mesh"
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

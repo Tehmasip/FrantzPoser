@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 29b49bf6f0f54474caf05ee2a7a8780e
+timeCreated: 1566995090
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _yure_hair_h_F01a
+    100002: _yure_hair_h_F01a 1
+    100004: _yure_hair_h_F01a_end
+    100006: _yure_hair_h_F02a
+    100008: _yure_hair_h_F02a 1
+    100010: _yure_hair_h_F02a_end
+    100012: _yure_hair_h_F03a
+    100014: _yure_hair_h_F03a 1
+    100016: _yure_hair_h_F03a_end
+    100018: _yure_hair_h_F04a
+    100020: _yure_hair_h_F04a 1
+    100022: _yure_hair_h_F04b
+    100024: _yure_hair_h_F04b 1
+    100026: _yure_hair_h_F04b_end
+    100028: _yure_hair_h_F05a
+    100030: _yure_hair_h_F05a 1
+    100032: _yure_hair_h_F05b
+    100034: _yure_hair_h_F05b 1
+    100036: _yure_hair_h_F05b_end
+    100038: Bone_Face
+    100040: //RootNode
+    100042: Hair_F
+    100044: Hair_R
+    100046: Hair_R_end
+    100048: J._yure_hair_h_F04b
+    100050: J._yure_hair_h_F05b
+    100052: joints
+    100054: rigidbodies
+    100056: "\u59B9\u6296"
+    100058: "\u59B9\u6296_arm"
+    100060: "\u59B9\u6296_mesh"
+    400000: _yure_hair_h_F01a
+    400002: _yure_hair_h_F01a 1
+    400004: _yure_hair_h_F01a_end
+    400006: _yure_hair_h_F02a
+    400008: _yure_hair_h_F02a 1
+    400010: _yure_hair_h_F02a_end
+    400012: _yure_hair_h_F03a
+    400014: _yure_hair_h_F03a 1
+    400016: _yure_hair_h_F03a_end
+    400018: _yure_hair_h_F04a
+    400020: _yure_hair_h_F04a 1
+    400022: _yure_hair_h_F04b
+    400024: _yure_hair_h_F04b 1
+    400026: _yure_hair_h_F04b_end
+    400028: _yure_hair_h_F05a
+    400030: _yure_hair_h_F05a 1
+    400032: _yure_hair_h_F05b
+    400034: _yure_hair_h_F05b 1
+    400036: _yure_hair_h_F05b_end
+    400038: Bone_Face
+    400040: //RootNode
+    400042: Hair_F
+    400044: Hair_R
+    400046: Hair_R_end
+    400048: J._yure_hair_h_F04b
+    400050: J._yure_hair_h_F05b
+    400052: joints
+    400054: rigidbodies
+    400056: "\u59B9\u6296"
+    400058: "\u59B9\u6296_arm"
+    400060: "\u59B9\u6296_mesh"
+    2300000: _yure_hair_h_F01a
+    2300002: _yure_hair_h_F02a
+    2300004: _yure_hair_h_F03a
+    2300006: _yure_hair_h_F04a
+    2300008: _yure_hair_h_F04b
+    2300010: _yure_hair_h_F05a
+    2300012: _yure_hair_h_F05b
+    3300000: _yure_hair_h_F01a
+    3300002: _yure_hair_h_F02a
+    3300004: _yure_hair_h_F03a
+    3300006: _yure_hair_h_F04a
+    3300008: _yure_hair_h_F04b
+    3300010: _yure_hair_h_F05a
+    3300012: _yure_hair_h_F05b
+    4300000: _yure_hair_h_F05b
+    4300002: _yure_hair_h_F05a
+    4300004: _yure_hair_h_F03a
+    4300006: _yure_hair_h_F04b
+    4300008: _yure_hair_h_F04a
+    4300010: _yure_hair_h_F02a
+    4300012: _yure_hair_h_F01a
+    4300014: "\u59B9\u6296_mesh"
+    9500000: //RootNode
+    13700000: "\u59B9\u6296_mesh"
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

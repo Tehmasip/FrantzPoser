@@ -1,0 +1,759 @@
+fileFormatVersion: 2
+guid: 950170530b0eb1745b9bd045a6be4b52
+timeCreated: 1566931888
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _yure_hair_h_R01a
+    100002: _yure_hair_h_R01a 1
+    100004: _yure_hair_h_R02a
+    100006: _yure_hair_h_R02a 1
+    100008: _yure_hair_h_R03a
+    100010: _yure_hair_h_R03a 1
+    100012: _yure_hair_h_R04a
+    100014: _yure_hair_h_R04a 1
+    100016: _yure_hair_h_R05a
+    100018: _yure_hair_h_R05a 1
+    100020: _yure_hair_h_R06a
+    100022: _yure_hair_h_R06a 1
+    100024: _yure_hair_h_R07a
+    100026: _yure_hair_h_R07a 1
+    100028: _yure_hair_h_R08a
+    100030: _yure_hair_h_R08a 1
+    100032: _yure_hair_h_R09a
+    100034: _yure_hair_h_R09a 1
+    100036: _yure_hair_h_R10a
+    100038: _yure_hair_h_R10a 1
+    100040: _yure_hair_soft_R01b
+    100042: _yure_hair_soft_R01b 1
+    100044: _yure_hair_soft_R01c
+    100046: _yure_hair_soft_R01c 1
+    100048: _yure_hair_soft_R01c_end
+    100050: _yure_hair_soft_R02b
+    100052: _yure_hair_soft_R02b 1
+    100054: _yure_hair_soft_R02c
+    100056: _yure_hair_soft_R02c 1
+    100058: _yure_hair_soft_R02c_end
+    100060: _yure_hair_soft_R03b
+    100062: _yure_hair_soft_R03b 1
+    100064: _yure_hair_soft_R03c
+    100066: _yure_hair_soft_R03c 1
+    100068: _yure_hair_soft_R03c_end
+    100070: _yure_hair_soft_R04b
+    100072: _yure_hair_soft_R04b 1
+    100074: _yure_hair_soft_R04c
+    100076: _yure_hair_soft_R04c 1
+    100078: _yure_hair_soft_R04c_end
+    100080: _yure_hair_soft_R05b
+    100082: _yure_hair_soft_R05b 1
+    100084: _yure_hair_soft_R05c
+    100086: _yure_hair_soft_R05c 1
+    100088: _yure_hair_soft_R05c_end
+    100090: _yure_hair_soft_R06b
+    100092: _yure_hair_soft_R06b 1
+    100094: _yure_hair_soft_R06c
+    100096: _yure_hair_soft_R06c 1
+    100098: _yure_hair_soft_R06c_end
+    100100: _yure_hair_soft_R07b
+    100102: _yure_hair_soft_R07b 1
+    100104: _yure_hair_soft_R07c
+    100106: _yure_hair_soft_R07c 1
+    100108: _yure_hair_soft_R07c_end
+    100110: _yure_hair_soft_R08b
+    100112: _yure_hair_soft_R08b 1
+    100114: _yure_hair_soft_R08c
+    100116: _yure_hair_soft_R08c 1
+    100118: _yure_hair_soft_R08c_end
+    100120: _yure_hair_soft_R09b
+    100122: _yure_hair_soft_R09b 1
+    100124: _yure_hair_soft_R09c
+    100126: _yure_hair_soft_R09c 1
+    100128: _yure_hair_soft_R09c_end
+    100130: _yure_hair_soft_R10b
+    100132: _yure_hair_soft_R10b 1
+    100134: _yure_hair_soft_R10c
+    100136: _yure_hair_soft_R10c 1
+    100138: _yure_hair_soft_R10c_end
+    100140: Bone_Face
+    100142: Hair_F
+    100144: Hair_F_end
+    100146: Hair_R
+    100148: //RootNode
+    100150: J._yure_hair_soft_R01b
+    100152: J._yure_hair_soft_R01c
+    100154: J._yure_hair_soft_R02b
+    100156: J._yure_hair_soft_R02c
+    100158: J._yure_hair_soft_R03b
+    100160: J._yure_hair_soft_R03c
+    100162: J._yure_hair_soft_R04b
+    100164: J._yure_hair_soft_R04c
+    100166: J._yure_hair_soft_R05b
+    100168: J._yure_hair_soft_R05c
+    100170: J._yure_hair_soft_R06b
+    100172: J._yure_hair_soft_R06c
+    100174: J._yure_hair_soft_R07b
+    100176: J._yure_hair_soft_R07c
+    100178: J._yure_hair_soft_R08b
+    100180: J._yure_hair_soft_R08c
+    100182: J._yure_hair_soft_R09b
+    100184: J._yure_hair_soft_R09c
+    100186: J._yure_hair_soft_R10b
+    100188: J._yure_hair_soft_R10c
+    100190: joints
+    100192: rigidbodies
+    100194: "\u59B9\u6296"
+    100196: "\u59B9\u6296_arm"
+    100198: "\u59B9\u6296_mesh"
+    100200: _yure_hair_h50_R01a
+    100202: _yure_hair_h50_R01a 1
+    100204: _yure_hair_h50_R01b
+    100206: _yure_hair_h50_R01b 1
+    100208: _yure_hair_h50_R02a
+    100210: _yure_hair_h50_R02a 1
+    100212: _yure_hair_h50_R02b
+    100214: _yure_hair_h50_R02b 1
+    100216: _yure_hair_h50_R03a
+    100218: _yure_hair_h50_R03a 1
+    100220: _yure_hair_h50_R03b
+    100222: _yure_hair_h50_R03b 1
+    100224: _yure_hair_h50_R04a
+    100226: _yure_hair_h50_R04a 1
+    100228: _yure_hair_h50_R04b
+    100230: _yure_hair_h50_R04b 1
+    100232: _yure_hair_h50_R05a
+    100234: _yure_hair_h50_R05a 1
+    100236: _yure_hair_h50_R05b
+    100238: _yure_hair_h50_R05b 1
+    100240: _yure_hair_R01c
+    100242: _yure_hair_R01c 1
+    100244: _yure_hair_R01d
+    100246: _yure_hair_R01d 1
+    100248: _yure_hair_R01e
+    100250: _yure_hair_R01e 1
+    100252: _yure_hair_R02c
+    100254: _yure_hair_R02c 1
+    100256: _yure_hair_R02d
+    100258: _yure_hair_R02d 1
+    100260: _yure_hair_R02e
+    100262: _yure_hair_R02e 1
+    100264: _yure_hair_R03c
+    100266: _yure_hair_R03c 1
+    100268: _yure_hair_R03d
+    100270: _yure_hair_R03d 1
+    100272: _yure_hair_R03e
+    100274: _yure_hair_R03e 1
+    100276: _yure_hair_R04c
+    100278: _yure_hair_R04c 1
+    100280: _yure_hair_R04d
+    100282: _yure_hair_R04d 1
+    100284: _yure_hair_R04e
+    100286: _yure_hair_R04e 1
+    100288: _yure_hair_R05c
+    100290: _yure_hair_R05c 1
+    100292: _yure_hair_R05d
+    100294: _yure_hair_R05d 1
+    100296: _yure_hair_R05e
+    100298: _yure_hair_R05e 1
+    100300: _yure_hair_R06c
+    100302: _yure_hair_R06d
+    100304: _yure_hair_R06d 1
+    100306: _yure_hair_R06e
+    100308: _yure_hair_R06e 1
+    100310: _yure_hair_R07c
+    100312: _yure_hair_R07d
+    100314: _yure_hair_R07d 1
+    100316: _yure_hair_R07e
+    100318: _yure_hair_R07e 1
+    100320: _yure_hair_soft_R01f
+    100322: _yure_hair_soft_R01f 1
+    100324: _yure_hair_soft_R01g
+    100326: _yure_hair_soft_R01g 1
+    100328: _yure_hair_soft_R01g_end
+    100330: _yure_hair_soft_R02f
+    100332: _yure_hair_soft_R02f 1
+    100334: _yure_hair_soft_R02g
+    100336: _yure_hair_soft_R02g 1
+    100338: _yure_hair_soft_R02g_end
+    100340: _yure_hair_soft_R03f
+    100342: _yure_hair_soft_R03f 1
+    100344: _yure_hair_soft_R03g
+    100346: _yure_hair_soft_R03g 1
+    100348: _yure_hair_soft_R03g_end
+    100350: _yure_hair_soft_R04f
+    100352: _yure_hair_soft_R04f 1
+    100354: _yure_hair_soft_R04g
+    100356: _yure_hair_soft_R04g 1
+    100358: _yure_hair_soft_R04g_end
+    100360: _yure_hair_soft_R05f
+    100362: _yure_hair_soft_R05f 1
+    100364: _yure_hair_soft_R05g
+    100366: _yure_hair_soft_R05g 1
+    100368: _yure_hair_soft_R05g_end
+    100370: _yure_hair_soft_R06f
+    100372: _yure_hair_soft_R06f 1
+    100374: _yure_hair_soft_R06g
+    100376: _yure_hair_soft_R06g 1
+    100378: _yure_hair_soft_R06g_end
+    100380: _yure_hair_soft_R07f
+    100382: _yure_hair_soft_R07f 1
+    100384: _yure_hair_soft_R07g
+    100386: _yure_hair_soft_R07g 1
+    100388: _yure_hair_soft_R07g_end
+    100390: J._yure_hair_h50_R01b
+    100392: J._yure_hair_h50_R02b
+    100394: J._yure_hair_h50_R03b
+    100396: J._yure_hair_h50_R04b
+    100398: J._yure_hair_h50_R05b
+    100400: J._yure_hair_R01c
+    100402: J._yure_hair_R01d
+    100404: J._yure_hair_R01e
+    100406: J._yure_hair_R02c
+    100408: J._yure_hair_R02d
+    100410: J._yure_hair_R02e
+    100412: J._yure_hair_R03c
+    100414: J._yure_hair_R03d
+    100416: J._yure_hair_R03e
+    100418: J._yure_hair_R04c
+    100420: J._yure_hair_R04d
+    100422: J._yure_hair_R04e
+    100424: J._yure_hair_R05c
+    100426: J._yure_hair_R05d
+    100428: J._yure_hair_R05e
+    100430: J._yure_hair_R06e
+    100432: J._yure_hair_R07e
+    100434: J._yure_hair_soft_R01f
+    100436: J._yure_hair_soft_R01g
+    100438: J._yure_hair_soft_R02f
+    100440: J._yure_hair_soft_R02g
+    100442: J._yure_hair_soft_R03f
+    100444: J._yure_hair_soft_R03g
+    100446: J._yure_hair_soft_R04f
+    100448: J._yure_hair_soft_R04g
+    100450: J._yure_hair_soft_R05f
+    100452: J._yure_hair_soft_R05g
+    100454: J._yure_hair_soft_R06f
+    100456: J._yure_hair_soft_R06g
+    100458: J._yure_hair_soft_R07f
+    100460: J._yure_hair_soft_R07g
+    400000: _yure_hair_h_R01a
+    400002: _yure_hair_h_R01a 1
+    400004: _yure_hair_h_R02a
+    400006: _yure_hair_h_R02a 1
+    400008: _yure_hair_h_R03a
+    400010: _yure_hair_h_R03a 1
+    400012: _yure_hair_h_R04a
+    400014: _yure_hair_h_R04a 1
+    400016: _yure_hair_h_R05a
+    400018: _yure_hair_h_R05a 1
+    400020: _yure_hair_h_R06a
+    400022: _yure_hair_h_R06a 1
+    400024: _yure_hair_h_R07a
+    400026: _yure_hair_h_R07a 1
+    400028: _yure_hair_h_R08a
+    400030: _yure_hair_h_R08a 1
+    400032: _yure_hair_h_R09a
+    400034: _yure_hair_h_R09a 1
+    400036: _yure_hair_h_R10a
+    400038: _yure_hair_h_R10a 1
+    400040: _yure_hair_soft_R01b
+    400042: _yure_hair_soft_R01b 1
+    400044: _yure_hair_soft_R01c
+    400046: _yure_hair_soft_R01c 1
+    400048: _yure_hair_soft_R01c_end
+    400050: _yure_hair_soft_R02b
+    400052: _yure_hair_soft_R02b 1
+    400054: _yure_hair_soft_R02c
+    400056: _yure_hair_soft_R02c 1
+    400058: _yure_hair_soft_R02c_end
+    400060: _yure_hair_soft_R03b
+    400062: _yure_hair_soft_R03b 1
+    400064: _yure_hair_soft_R03c
+    400066: _yure_hair_soft_R03c 1
+    400068: _yure_hair_soft_R03c_end
+    400070: _yure_hair_soft_R04b
+    400072: _yure_hair_soft_R04b 1
+    400074: _yure_hair_soft_R04c
+    400076: _yure_hair_soft_R04c 1
+    400078: _yure_hair_soft_R04c_end
+    400080: _yure_hair_soft_R05b
+    400082: _yure_hair_soft_R05b 1
+    400084: _yure_hair_soft_R05c
+    400086: _yure_hair_soft_R05c 1
+    400088: _yure_hair_soft_R05c_end
+    400090: _yure_hair_soft_R06b
+    400092: _yure_hair_soft_R06b 1
+    400094: _yure_hair_soft_R06c
+    400096: _yure_hair_soft_R06c 1
+    400098: _yure_hair_soft_R06c_end
+    400100: _yure_hair_soft_R07b
+    400102: _yure_hair_soft_R07b 1
+    400104: _yure_hair_soft_R07c
+    400106: _yure_hair_soft_R07c 1
+    400108: _yure_hair_soft_R07c_end
+    400110: _yure_hair_soft_R08b
+    400112: _yure_hair_soft_R08b 1
+    400114: _yure_hair_soft_R08c
+    400116: _yure_hair_soft_R08c 1
+    400118: _yure_hair_soft_R08c_end
+    400120: _yure_hair_soft_R09b
+    400122: _yure_hair_soft_R09b 1
+    400124: _yure_hair_soft_R09c
+    400126: _yure_hair_soft_R09c 1
+    400128: _yure_hair_soft_R09c_end
+    400130: _yure_hair_soft_R10b
+    400132: _yure_hair_soft_R10b 1
+    400134: _yure_hair_soft_R10c
+    400136: _yure_hair_soft_R10c 1
+    400138: _yure_hair_soft_R10c_end
+    400140: Bone_Face
+    400142: Hair_F
+    400144: Hair_F_end
+    400146: Hair_R
+    400148: //RootNode
+    400150: J._yure_hair_soft_R01b
+    400152: J._yure_hair_soft_R01c
+    400154: J._yure_hair_soft_R02b
+    400156: J._yure_hair_soft_R02c
+    400158: J._yure_hair_soft_R03b
+    400160: J._yure_hair_soft_R03c
+    400162: J._yure_hair_soft_R04b
+    400164: J._yure_hair_soft_R04c
+    400166: J._yure_hair_soft_R05b
+    400168: J._yure_hair_soft_R05c
+    400170: J._yure_hair_soft_R06b
+    400172: J._yure_hair_soft_R06c
+    400174: J._yure_hair_soft_R07b
+    400176: J._yure_hair_soft_R07c
+    400178: J._yure_hair_soft_R08b
+    400180: J._yure_hair_soft_R08c
+    400182: J._yure_hair_soft_R09b
+    400184: J._yure_hair_soft_R09c
+    400186: J._yure_hair_soft_R10b
+    400188: J._yure_hair_soft_R10c
+    400190: joints
+    400192: rigidbodies
+    400194: "\u59B9\u6296"
+    400196: "\u59B9\u6296_arm"
+    400198: "\u59B9\u6296_mesh"
+    400200: _yure_hair_h50_R01a
+    400202: _yure_hair_h50_R01a 1
+    400204: _yure_hair_h50_R01b
+    400206: _yure_hair_h50_R01b 1
+    400208: _yure_hair_h50_R02a
+    400210: _yure_hair_h50_R02a 1
+    400212: _yure_hair_h50_R02b
+    400214: _yure_hair_h50_R02b 1
+    400216: _yure_hair_h50_R03a
+    400218: _yure_hair_h50_R03a 1
+    400220: _yure_hair_h50_R03b
+    400222: _yure_hair_h50_R03b 1
+    400224: _yure_hair_h50_R04a
+    400226: _yure_hair_h50_R04a 1
+    400228: _yure_hair_h50_R04b
+    400230: _yure_hair_h50_R04b 1
+    400232: _yure_hair_h50_R05a
+    400234: _yure_hair_h50_R05a 1
+    400236: _yure_hair_h50_R05b
+    400238: _yure_hair_h50_R05b 1
+    400240: _yure_hair_R01c
+    400242: _yure_hair_R01c 1
+    400244: _yure_hair_R01d
+    400246: _yure_hair_R01d 1
+    400248: _yure_hair_R01e
+    400250: _yure_hair_R01e 1
+    400252: _yure_hair_R02c
+    400254: _yure_hair_R02c 1
+    400256: _yure_hair_R02d
+    400258: _yure_hair_R02d 1
+    400260: _yure_hair_R02e
+    400262: _yure_hair_R02e 1
+    400264: _yure_hair_R03c
+    400266: _yure_hair_R03c 1
+    400268: _yure_hair_R03d
+    400270: _yure_hair_R03d 1
+    400272: _yure_hair_R03e
+    400274: _yure_hair_R03e 1
+    400276: _yure_hair_R04c
+    400278: _yure_hair_R04c 1
+    400280: _yure_hair_R04d
+    400282: _yure_hair_R04d 1
+    400284: _yure_hair_R04e
+    400286: _yure_hair_R04e 1
+    400288: _yure_hair_R05c
+    400290: _yure_hair_R05c 1
+    400292: _yure_hair_R05d
+    400294: _yure_hair_R05d 1
+    400296: _yure_hair_R05e
+    400298: _yure_hair_R05e 1
+    400300: _yure_hair_R06c
+    400302: _yure_hair_R06d
+    400304: _yure_hair_R06d 1
+    400306: _yure_hair_R06e
+    400308: _yure_hair_R06e 1
+    400310: _yure_hair_R07c
+    400312: _yure_hair_R07d
+    400314: _yure_hair_R07d 1
+    400316: _yure_hair_R07e
+    400318: _yure_hair_R07e 1
+    400320: _yure_hair_soft_R01f
+    400322: _yure_hair_soft_R01f 1
+    400324: _yure_hair_soft_R01g
+    400326: _yure_hair_soft_R01g 1
+    400328: _yure_hair_soft_R01g_end
+    400330: _yure_hair_soft_R02f
+    400332: _yure_hair_soft_R02f 1
+    400334: _yure_hair_soft_R02g
+    400336: _yure_hair_soft_R02g 1
+    400338: _yure_hair_soft_R02g_end
+    400340: _yure_hair_soft_R03f
+    400342: _yure_hair_soft_R03f 1
+    400344: _yure_hair_soft_R03g
+    400346: _yure_hair_soft_R03g 1
+    400348: _yure_hair_soft_R03g_end
+    400350: _yure_hair_soft_R04f
+    400352: _yure_hair_soft_R04f 1
+    400354: _yure_hair_soft_R04g
+    400356: _yure_hair_soft_R04g 1
+    400358: _yure_hair_soft_R04g_end
+    400360: _yure_hair_soft_R05f
+    400362: _yure_hair_soft_R05f 1
+    400364: _yure_hair_soft_R05g
+    400366: _yure_hair_soft_R05g 1
+    400368: _yure_hair_soft_R05g_end
+    400370: _yure_hair_soft_R06f
+    400372: _yure_hair_soft_R06f 1
+    400374: _yure_hair_soft_R06g
+    400376: _yure_hair_soft_R06g 1
+    400378: _yure_hair_soft_R06g_end
+    400380: _yure_hair_soft_R07f
+    400382: _yure_hair_soft_R07f 1
+    400384: _yure_hair_soft_R07g
+    400386: _yure_hair_soft_R07g 1
+    400388: _yure_hair_soft_R07g_end
+    400390: J._yure_hair_h50_R01b
+    400392: J._yure_hair_h50_R02b
+    400394: J._yure_hair_h50_R03b
+    400396: J._yure_hair_h50_R04b
+    400398: J._yure_hair_h50_R05b
+    400400: J._yure_hair_R01c
+    400402: J._yure_hair_R01d
+    400404: J._yure_hair_R01e
+    400406: J._yure_hair_R02c
+    400408: J._yure_hair_R02d
+    400410: J._yure_hair_R02e
+    400412: J._yure_hair_R03c
+    400414: J._yure_hair_R03d
+    400416: J._yure_hair_R03e
+    400418: J._yure_hair_R04c
+    400420: J._yure_hair_R04d
+    400422: J._yure_hair_R04e
+    400424: J._yure_hair_R05c
+    400426: J._yure_hair_R05d
+    400428: J._yure_hair_R05e
+    400430: J._yure_hair_R06e
+    400432: J._yure_hair_R07e
+    400434: J._yure_hair_soft_R01f
+    400436: J._yure_hair_soft_R01g
+    400438: J._yure_hair_soft_R02f
+    400440: J._yure_hair_soft_R02g
+    400442: J._yure_hair_soft_R03f
+    400444: J._yure_hair_soft_R03g
+    400446: J._yure_hair_soft_R04f
+    400448: J._yure_hair_soft_R04g
+    400450: J._yure_hair_soft_R05f
+    400452: J._yure_hair_soft_R05g
+    400454: J._yure_hair_soft_R06f
+    400456: J._yure_hair_soft_R06g
+    400458: J._yure_hair_soft_R07f
+    400460: J._yure_hair_soft_R07g
+    2300000: _yure_hair_h_R01a
+    2300002: _yure_hair_h_R02a
+    2300004: _yure_hair_h_R03a
+    2300006: _yure_hair_h_R04a
+    2300008: _yure_hair_h_R05a
+    2300010: _yure_hair_h_R06a
+    2300012: _yure_hair_h_R07a
+    2300014: _yure_hair_h_R08a
+    2300016: _yure_hair_h_R09a
+    2300018: _yure_hair_h_R10a
+    2300020: _yure_hair_soft_R01b
+    2300022: _yure_hair_soft_R01c
+    2300024: _yure_hair_soft_R02b
+    2300026: _yure_hair_soft_R02c
+    2300028: _yure_hair_soft_R03b
+    2300030: _yure_hair_soft_R03c
+    2300032: _yure_hair_soft_R04b
+    2300034: _yure_hair_soft_R04c
+    2300036: _yure_hair_soft_R05b
+    2300038: _yure_hair_soft_R05c
+    2300040: _yure_hair_soft_R06b
+    2300042: _yure_hair_soft_R06c
+    2300044: _yure_hair_soft_R07b
+    2300046: _yure_hair_soft_R07c
+    2300048: _yure_hair_soft_R08b
+    2300050: _yure_hair_soft_R08c
+    2300052: _yure_hair_soft_R09b
+    2300054: _yure_hair_soft_R09c
+    2300056: _yure_hair_soft_R10b
+    2300058: _yure_hair_soft_R10c
+    2300060: _yure_hair_h50_R01a
+    2300062: _yure_hair_h50_R01b
+    2300064: _yure_hair_h50_R02a
+    2300066: _yure_hair_h50_R02b
+    2300068: _yure_hair_h50_R03a
+    2300070: _yure_hair_h50_R03b
+    2300072: _yure_hair_h50_R04a
+    2300074: _yure_hair_h50_R04b
+    2300076: _yure_hair_h50_R05a
+    2300078: _yure_hair_h50_R05b
+    2300080: _yure_hair_R01c
+    2300082: _yure_hair_R01d
+    2300084: _yure_hair_R01e
+    2300086: _yure_hair_R02c
+    2300088: _yure_hair_R02d
+    2300090: _yure_hair_R02e
+    2300092: _yure_hair_R03c
+    2300094: _yure_hair_R03d
+    2300096: _yure_hair_R03e
+    2300098: _yure_hair_R04c
+    2300100: _yure_hair_R04d
+    2300102: _yure_hair_R04e
+    2300104: _yure_hair_R05c
+    2300106: _yure_hair_R05d
+    2300108: _yure_hair_R05e
+    2300110: _yure_hair_R06d
+    2300112: _yure_hair_R06e
+    2300114: _yure_hair_R07d
+    2300116: _yure_hair_R07e
+    2300118: _yure_hair_soft_R01f
+    2300120: _yure_hair_soft_R01g
+    2300122: _yure_hair_soft_R02f
+    2300124: _yure_hair_soft_R02g
+    2300126: _yure_hair_soft_R03f
+    2300128: _yure_hair_soft_R03g
+    2300130: _yure_hair_soft_R04f
+    2300132: _yure_hair_soft_R04g
+    2300134: _yure_hair_soft_R05f
+    2300136: _yure_hair_soft_R05g
+    2300138: _yure_hair_soft_R06f
+    2300140: _yure_hair_soft_R06g
+    2300142: _yure_hair_soft_R07f
+    2300144: _yure_hair_soft_R07g
+    3300000: _yure_hair_h_R01a
+    3300002: _yure_hair_h_R02a
+    3300004: _yure_hair_h_R03a
+    3300006: _yure_hair_h_R04a
+    3300008: _yure_hair_h_R05a
+    3300010: _yure_hair_h_R06a
+    3300012: _yure_hair_h_R07a
+    3300014: _yure_hair_h_R08a
+    3300016: _yure_hair_h_R09a
+    3300018: _yure_hair_h_R10a
+    3300020: _yure_hair_soft_R01b
+    3300022: _yure_hair_soft_R01c
+    3300024: _yure_hair_soft_R02b
+    3300026: _yure_hair_soft_R02c
+    3300028: _yure_hair_soft_R03b
+    3300030: _yure_hair_soft_R03c
+    3300032: _yure_hair_soft_R04b
+    3300034: _yure_hair_soft_R04c
+    3300036: _yure_hair_soft_R05b
+    3300038: _yure_hair_soft_R05c
+    3300040: _yure_hair_soft_R06b
+    3300042: _yure_hair_soft_R06c
+    3300044: _yure_hair_soft_R07b
+    3300046: _yure_hair_soft_R07c
+    3300048: _yure_hair_soft_R08b
+    3300050: _yure_hair_soft_R08c
+    3300052: _yure_hair_soft_R09b
+    3300054: _yure_hair_soft_R09c
+    3300056: _yure_hair_soft_R10b
+    3300058: _yure_hair_soft_R10c
+    3300060: _yure_hair_h50_R01a
+    3300062: _yure_hair_h50_R01b
+    3300064: _yure_hair_h50_R02a
+    3300066: _yure_hair_h50_R02b
+    3300068: _yure_hair_h50_R03a
+    3300070: _yure_hair_h50_R03b
+    3300072: _yure_hair_h50_R04a
+    3300074: _yure_hair_h50_R04b
+    3300076: _yure_hair_h50_R05a
+    3300078: _yure_hair_h50_R05b
+    3300080: _yure_hair_R01c
+    3300082: _yure_hair_R01d
+    3300084: _yure_hair_R01e
+    3300086: _yure_hair_R02c
+    3300088: _yure_hair_R02d
+    3300090: _yure_hair_R02e
+    3300092: _yure_hair_R03c
+    3300094: _yure_hair_R03d
+    3300096: _yure_hair_R03e
+    3300098: _yure_hair_R04c
+    3300100: _yure_hair_R04d
+    3300102: _yure_hair_R04e
+    3300104: _yure_hair_R05c
+    3300106: _yure_hair_R05d
+    3300108: _yure_hair_R05e
+    3300110: _yure_hair_R06d
+    3300112: _yure_hair_R06e
+    3300114: _yure_hair_R07d
+    3300116: _yure_hair_R07e
+    3300118: _yure_hair_soft_R01f
+    3300120: _yure_hair_soft_R01g
+    3300122: _yure_hair_soft_R02f
+    3300124: _yure_hair_soft_R02g
+    3300126: _yure_hair_soft_R03f
+    3300128: _yure_hair_soft_R03g
+    3300130: _yure_hair_soft_R04f
+    3300132: _yure_hair_soft_R04g
+    3300134: _yure_hair_soft_R05f
+    3300136: _yure_hair_soft_R05g
+    3300138: _yure_hair_soft_R06f
+    3300140: _yure_hair_soft_R06g
+    3300142: _yure_hair_soft_R07f
+    3300144: _yure_hair_soft_R07g
+    4300000: _yure_hair_soft_R05c
+    4300002: _yure_hair_soft_R05b
+    4300004: _yure_hair_soft_R03c
+    4300006: _yure_hair_soft_R03b
+    4300008: _yure_hair_h_R03a
+    4300010: _yure_hair_h_R05a
+    4300012: _yure_hair_soft_R04c
+    4300014: _yure_hair_soft_R04b
+    4300016: _yure_hair_soft_R02c
+    4300018: _yure_hair_soft_R02b
+    4300020: _yure_hair_soft_R01c
+    4300022: _yure_hair_soft_R01b
+    4300024: _yure_hair_h_R01a
+    4300026: _yure_hair_h_R02a
+    4300028: _yure_hair_h_R04a
+    4300030: _yure_hair_soft_R10c
+    4300032: _yure_hair_soft_R10b
+    4300034: _yure_hair_soft_R08c
+    4300036: _yure_hair_soft_R08b
+    4300038: _yure_hair_h_R08a
+    4300040: _yure_hair_h_R10a
+    4300042: _yure_hair_soft_R09c
+    4300044: _yure_hair_soft_R09b
+    4300046: _yure_hair_soft_R07c
+    4300048: _yure_hair_soft_R07b
+    4300050: _yure_hair_soft_R06c
+    4300052: _yure_hair_soft_R06b
+    4300054: _yure_hair_h_R06a
+    4300056: _yure_hair_h_R07a
+    4300058: _yure_hair_h_R09a
+    4300060: "\u59B9\u6296_mesh"
+    4300062: _yure_hair_soft_R07g
+    4300064: _yure_hair_soft_R07f
+    4300066: _yure_hair_R07e
+    4300068: _yure_hair_R07d
+    4300070: _yure_hair_soft_R06g
+    4300072: _yure_hair_soft_R06f
+    4300074: _yure_hair_R06e
+    4300076: _yure_hair_R06d
+    4300078: _yure_hair_soft_R04g
+    4300080: _yure_hair_soft_R04f
+    4300082: _yure_hair_R04e
+    4300084: _yure_hair_R04d
+    4300086: _yure_hair_R04c
+    4300088: _yure_hair_h50_R04b
+    4300090: _yure_hair_soft_R05g
+    4300092: _yure_hair_h50_R04a
+    4300094: _yure_hair_soft_R05f
+    4300096: _yure_hair_R05e
+    4300098: _yure_hair_R05d
+    4300100: _yure_hair_R05c
+    4300102: _yure_hair_h50_R05b
+    4300104: _yure_hair_h50_R05a
+    4300106: _yure_hair_soft_R03g
+    4300108: _yure_hair_soft_R03f
+    4300110: _yure_hair_R03e
+    4300112: _yure_hair_R03d
+    4300114: _yure_hair_R03c
+    4300116: _yure_hair_h50_R03b
+    4300118: _yure_hair_h50_R03a
+    4300120: _yure_hair_soft_R01g
+    4300122: _yure_hair_soft_R01f
+    4300124: _yure_hair_R01e
+    4300126: _yure_hair_R01d
+    4300128: _yure_hair_R01c
+    4300130: _yure_hair_h50_R01b
+    4300132: _yure_hair_h50_R01a
+    4300134: _yure_hair_soft_R02g
+    4300136: _yure_hair_soft_R02f
+    4300138: _yure_hair_R02e
+    4300140: _yure_hair_R02d
+    4300142: _yure_hair_R02c
+    4300144: _yure_hair_h50_R02b
+    4300146: _yure_hair_h50_R02a
+    9500000: //RootNode
+    13700000: "\u59B9\u6296_mesh"
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

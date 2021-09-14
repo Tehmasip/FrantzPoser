@@ -1,0 +1,294 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ToonMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Base:Armature
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_C_Neck
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_C_Neck/Base:J_Bip_C_Head
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_C_Neck/Base:J_Bip_C_Head/Base:Face
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand/Base:J_Bip_L_Index1
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand/Base:J_Bip_L_Index1/Base:J_Bip_L_Index2
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand/Base:J_Bip_L_Index1/Base:J_Bip_L_Index2/Base:J_Bip_L_Index3
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand/Base:J_Bip_L_Index1/Base:J_Bip_L_Index2/Base:J_Bip_L_Index3/Base:J_Bip_L_Index3_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand/Base:J_Bip_L_Index1/Base:J_Bip_L_Index2/Base:J_Bip_L_Index3/Base:J_Bip_L_Index3_end/Base:J_Bip_L_Index3_end_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand/Base:J_Bip_L_Little1
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand/Base:J_Bip_L_Little1/Base:J_Bip_L_Little2
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand/Base:J_Bip_L_Little1/Base:J_Bip_L_Little2/Base:J_Bip_L_Little3
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand/Base:J_Bip_L_Little1/Base:J_Bip_L_Little2/Base:J_Bip_L_Little3/Base:J_Bip_L_Little3_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand/Base:J_Bip_L_Little1/Base:J_Bip_L_Little2/Base:J_Bip_L_Little3/Base:J_Bip_L_Little3_end/Base:J_Bip_L_Little3_end_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand/Base:J_Bip_L_Middle1
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand/Base:J_Bip_L_Middle1/Base:J_Bip_L_Middle2
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand/Base:J_Bip_L_Middle1/Base:J_Bip_L_Middle2/Base:J_Bip_L_Middle3
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand/Base:J_Bip_L_Middle1/Base:J_Bip_L_Middle2/Base:J_Bip_L_Middle3/Base:J_Bip_L_Middle3_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand/Base:J_Bip_L_Middle1/Base:J_Bip_L_Middle2/Base:J_Bip_L_Middle3/Base:J_Bip_L_Middle3_end/Base:J_Bip_L_Middle3_end_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand/Base:J_Bip_L_Ring1
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand/Base:J_Bip_L_Ring1/Base:J_Bip_L_Ring2
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand/Base:J_Bip_L_Ring1/Base:J_Bip_L_Ring2/Base:J_Bip_L_Ring3
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand/Base:J_Bip_L_Ring1/Base:J_Bip_L_Ring2/Base:J_Bip_L_Ring3/Base:J_Bip_L_Ring3_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand/Base:J_Bip_L_Ring1/Base:J_Bip_L_Ring2/Base:J_Bip_L_Ring3/Base:J_Bip_L_Ring3_end/Base:J_Bip_L_Ring3_end_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand/Base:J_Bip_L_Thumb1
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand/Base:J_Bip_L_Thumb1/Base:J_Bip_L_Thumb2
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand/Base:J_Bip_L_Thumb1/Base:J_Bip_L_Thumb2/Base:J_Bip_L_Thumb3
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand/Base:J_Bip_L_Thumb1/Base:J_Bip_L_Thumb2/Base:J_Bip_L_Thumb3/Base:J_Bip_L_Thumb3_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand/Base:J_Bip_L_Thumb1/Base:J_Bip_L_Thumb2/Base:J_Bip_L_Thumb3/Base:J_Bip_L_Thumb3_end/Base:J_Bip_L_Thumb3_end_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand/Base:J_Sec_L_TipSleeve
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand/Base:J_Sec_L_TipSleeve/Base:J_Sec_L_TipSleeve_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Bip_L_Hand/Base:J_Sec_L_TipSleeve/Base:J_Sec_L_TipSleeve_end/Base:J_Sec_L_TipSleeve_end_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Sec_L_LowerArm
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Sec_L_LowerArm/Base:J_Sec_L_LowerArm_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Sec_L_LowerSleeve
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Sec_L_LowerSleeve/Base:J_Sec_L_LowerSleeve_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Bip_L_LowerArm/Base:J_Sec_L_LowerSleeve/Base:J_Sec_L_LowerSleeve_end/Base:J_Sec_L_LowerSleeve_end_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Sec_L_UpperArm
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_L_Shoulder/Base:J_Bip_L_UpperArm/Base:J_Sec_L_UpperArm/Base:J_Sec_L_UpperArm_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand/Base:J_Bip_R_Index1
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand/Base:J_Bip_R_Index1/Base:J_Bip_R_Index2
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand/Base:J_Bip_R_Index1/Base:J_Bip_R_Index2/Base:J_Bip_R_Index3
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand/Base:J_Bip_R_Index1/Base:J_Bip_R_Index2/Base:J_Bip_R_Index3/Base:J_Bip_R_Index3_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand/Base:J_Bip_R_Index1/Base:J_Bip_R_Index2/Base:J_Bip_R_Index3/Base:J_Bip_R_Index3_end/Base:J_Bip_R_Index3_end_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand/Base:J_Bip_R_Little1
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand/Base:J_Bip_R_Little1/Base:J_Bip_R_Little2
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand/Base:J_Bip_R_Little1/Base:J_Bip_R_Little2/Base:J_Bip_R_Little3
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand/Base:J_Bip_R_Little1/Base:J_Bip_R_Little2/Base:J_Bip_R_Little3/Base:J_Bip_R_Little3_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand/Base:J_Bip_R_Little1/Base:J_Bip_R_Little2/Base:J_Bip_R_Little3/Base:J_Bip_R_Little3_end/Base:J_Bip_R_Little3_end_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand/Base:J_Bip_R_Middle1
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand/Base:J_Bip_R_Middle1/Base:J_Bip_R_Middle2
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand/Base:J_Bip_R_Middle1/Base:J_Bip_R_Middle2/Base:J_Bip_R_Middle3
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand/Base:J_Bip_R_Middle1/Base:J_Bip_R_Middle2/Base:J_Bip_R_Middle3/Base:J_Bip_R_Middle3_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand/Base:J_Bip_R_Middle1/Base:J_Bip_R_Middle2/Base:J_Bip_R_Middle3/Base:J_Bip_R_Middle3_end/Base:J_Bip_R_Middle3_end_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand/Base:J_Bip_R_Ring1
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand/Base:J_Bip_R_Ring1/Base:J_Bip_R_Ring2
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand/Base:J_Bip_R_Ring1/Base:J_Bip_R_Ring2/Base:J_Bip_R_Ring3
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand/Base:J_Bip_R_Ring1/Base:J_Bip_R_Ring2/Base:J_Bip_R_Ring3/Base:J_Bip_R_Ring3_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand/Base:J_Bip_R_Ring1/Base:J_Bip_R_Ring2/Base:J_Bip_R_Ring3/Base:J_Bip_R_Ring3_end/Base:J_Bip_R_Ring3_end_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand/Base:J_Bip_R_Thumb1
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand/Base:J_Bip_R_Thumb1/Base:J_Bip_R_Thumb2
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand/Base:J_Bip_R_Thumb1/Base:J_Bip_R_Thumb2/Base:J_Bip_R_Thumb3
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand/Base:J_Bip_R_Thumb1/Base:J_Bip_R_Thumb2/Base:J_Bip_R_Thumb3/Base:J_Bip_R_Thumb3_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand/Base:J_Bip_R_Thumb1/Base:J_Bip_R_Thumb2/Base:J_Bip_R_Thumb3/Base:J_Bip_R_Thumb3_end/Base:J_Bip_R_Thumb3_end_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand/Base:J_Sec_R_TipSleeve
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand/Base:J_Sec_R_TipSleeve/Base:J_Sec_R_TipSleeve_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Bip_R_Hand/Base:J_Sec_R_TipSleeve/Base:J_Sec_R_TipSleeve_end/Base:J_Sec_R_TipSleeve_end_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Sec_R_LowerArm
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Sec_R_LowerArm/Base:J_Sec_R_LowerArm_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Sec_R_LowerSleeve
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Sec_R_LowerSleeve/Base:J_Sec_R_LowerSleeve_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Bip_R_LowerArm/Base:J_Sec_R_LowerSleeve/Base:J_Sec_R_LowerSleeve_end/Base:J_Sec_R_LowerSleeve_end_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Sec_R_UpperArm
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Bip_R_Shoulder/Base:J_Bip_R_UpperArm/Base:J_Sec_R_UpperArm/Base:J_Sec_R_UpperArm_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Sec_L_Bust1
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Sec_L_Bust1/Base:J_Sec_L_Bust2
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Sec_L_Bust1/Base:J_Sec_L_Bust2/Base:J_Sec_L_Bust2_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Sec_R_Bust1
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Sec_R_Bust1/Base:J_Sec_R_Bust2
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_C_Spine/Base:J_Bip_C_Chest/Base:J_Bip_C_UpperChest/Base:J_Sec_R_Bust1/Base:J_Sec_R_Bust2/Base:J_Sec_R_Bust2_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_L_UpperLeg
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_L_UpperLeg/Base:J_Bip_L_LowerLeg
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_L_UpperLeg/Base:J_Bip_L_LowerLeg/Base:J_Bip_L_Foot
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_L_UpperLeg/Base:J_Bip_L_LowerLeg/Base:J_Bip_L_Foot/Base:J_Bip_L_ToeBase
+    m_Weight: 0
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_L_UpperLeg/Base:J_Bip_L_LowerLeg/Base:J_Bip_L_Foot/Base:J_Bip_L_ToeBase/Base:J_Bip_L_ToeBase_end
+    m_Weight: 0
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_L_UpperLeg/Base:J_Bip_L_LowerLeg/Base:J_Bip_L_Foot/Base:J_Bip_L_ToeBase/Base:J_Bip_L_ToeBase_end/Base:J_Bip_L_ToeBase_end_end
+    m_Weight: 0
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_L_UpperLeg/Base:J_Bip_L_LowerLeg/Base:J_Sec_L_LowerLeg
+    m_Weight: 0
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_L_UpperLeg/Base:J_Bip_L_LowerLeg/Base:J_Sec_L_LowerLeg/Base:J_Sec_L_LowerLeg_end
+    m_Weight: 0
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_L_UpperLeg/Base:J_Sec_L_SkirtBack1
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_L_UpperLeg/Base:J_Sec_L_SkirtBack1/Base:J_Sec_L_SkirtBack2
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_L_UpperLeg/Base:J_Sec_L_SkirtBack1/Base:J_Sec_L_SkirtBack2/Base:J_Sec_L_SkirtBack2_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_L_UpperLeg/Base:J_Sec_L_SkirtBack1/Base:J_Sec_L_SkirtBack2/Base:J_Sec_L_SkirtBack2_end/Base:J_Sec_L_SkirtBack2_end_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_L_UpperLeg/Base:J_Sec_L_SkirtFront1
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_L_UpperLeg/Base:J_Sec_L_SkirtFront1/Base:J_Sec_L_SkirtFront2
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_L_UpperLeg/Base:J_Sec_L_SkirtFront1/Base:J_Sec_L_SkirtFront2/Base:J_Sec_L_SkirtFront2_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_L_UpperLeg/Base:J_Sec_L_SkirtFront1/Base:J_Sec_L_SkirtFront2/Base:J_Sec_L_SkirtFront2_end/Base:J_Sec_L_SkirtFront2_end_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_L_UpperLeg/Base:J_Sec_L_UpperLeg
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_L_UpperLeg/Base:J_Sec_L_UpperLeg/Base:J_Sec_L_UpperLeg_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_R_UpperLeg
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_R_UpperLeg/Base:J_Bip_R_LowerLeg
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_R_UpperLeg/Base:J_Bip_R_LowerLeg/Base:J_Bip_R_Foot
+    m_Weight: 0
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_R_UpperLeg/Base:J_Bip_R_LowerLeg/Base:J_Bip_R_Foot/Base:J_Bip_R_ToeBase
+    m_Weight: 0
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_R_UpperLeg/Base:J_Bip_R_LowerLeg/Base:J_Bip_R_Foot/Base:J_Bip_R_ToeBase/Base:J_Bip_R_ToeBase_end
+    m_Weight: 0
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_R_UpperLeg/Base:J_Bip_R_LowerLeg/Base:J_Bip_R_Foot/Base:J_Bip_R_ToeBase/Base:J_Bip_R_ToeBase_end/Base:J_Bip_R_ToeBase_end_end
+    m_Weight: 0
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_R_UpperLeg/Base:J_Bip_R_LowerLeg/Base:J_Sec_R_LowerLeg
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_R_UpperLeg/Base:J_Bip_R_LowerLeg/Base:J_Sec_R_LowerLeg/Base:J_Sec_R_LowerLeg_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_R_UpperLeg/Base:J_Sec_R_SkirtBack1
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_R_UpperLeg/Base:J_Sec_R_SkirtBack1/Base:J_Sec_R_SkirtBack2
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_R_UpperLeg/Base:J_Sec_R_SkirtBack1/Base:J_Sec_R_SkirtBack2/Base:J_Sec_R_SkirtBack2_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_R_UpperLeg/Base:J_Sec_R_SkirtBack1/Base:J_Sec_R_SkirtBack2/Base:J_Sec_R_SkirtBack2_end/Base:J_Sec_R_SkirtBack2_end_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_R_UpperLeg/Base:J_Sec_R_SkirtFront1
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_R_UpperLeg/Base:J_Sec_R_SkirtFront1/Base:J_Sec_R_SkirtFront2
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_R_UpperLeg/Base:J_Sec_R_SkirtFront1/Base:J_Sec_R_SkirtFront2/Base:J_Sec_R_SkirtFront2_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_R_UpperLeg/Base:J_Sec_R_SkirtFront1/Base:J_Sec_R_SkirtFront2/Base:J_Sec_R_SkirtFront2_end/Base:J_Sec_R_SkirtFront2_end_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_R_UpperLeg/Base:J_Sec_R_UpperLeg
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Bip_R_UpperLeg/Base:J_Sec_R_UpperLeg/Base:J_Sec_R_UpperLeg_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Sec_L_SkirtSide1
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Sec_L_SkirtSide1/Base:J_Sec_L_SkirtSide2
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Sec_L_SkirtSide1/Base:J_Sec_L_SkirtSide2/Base:J_Sec_L_SkirtSide2_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Sec_L_SkirtSide1/Base:J_Sec_L_SkirtSide2/Base:J_Sec_L_SkirtSide2_end/Base:J_Sec_L_SkirtSide2_end_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Sec_R_SkirtSide1
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Sec_R_SkirtSide1/Base:J_Sec_R_SkirtSide2
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Sec_R_SkirtSide1/Base:J_Sec_R_SkirtSide2/Base:J_Sec_R_SkirtSide2_end
+    m_Weight: 1
+  - m_Path: Base:Armature/Base:Root/Base:Global/Base:Position/Base:J_Bip_C_Hips/Base:J_Sec_R_SkirtSide1/Base:J_Sec_R_SkirtSide2/Base:J_Sec_R_SkirtSide2_end/Base:J_Sec_R_SkirtSide2_end_end
+    m_Weight: 1
+  - m_Path: Base:Body
+    m_Weight: 1
+  - m_Path: Base:secondary
+    m_Weight: 1
