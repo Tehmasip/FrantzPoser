@@ -8978,7 +8978,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cameraMoveSpeed: 0.05
-  cameraRotateSpeed: 800
+  cameraRotateSpeed: 1000
   cameraZoomSpeed: 2
 --- !u!1 &536538797
 GameObject:
