@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/CustomAnimeCharacterBuilder/Scenes/CustomizationScene.unity
+    guid: 7e7de448653d8e446befebcac0e23bdd
+  - enabled: 1
+    path: Assets/CustomAnimeCharacterBuilder/Scenes/GameScene.unity
+    guid: b47191c6c1ee70749aa37c025d7df49e
   m_configObjects: {}
