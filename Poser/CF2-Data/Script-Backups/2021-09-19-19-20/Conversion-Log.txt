@@ -1,0 +1,17 @@
+Converting script [1 / 1]	[\Invector-3rdPersonController_LITE\Scripts\CharacterController\vThirdPersonInput.cs]
+	Fragments : 8
+		[ 0] : Line:   86	InputMethod   GetAxis             	(horizontalInput)
+		[ 1] : Line:   87	InputMethod   GetAxis             	(verticallInput)
+		[ 2] : Line:  110	InputMethod   GetAxis             	(rotateCameraYInput)
+		[ 3] : Line:  111	InputMethod   GetAxis             	(rotateCameraXInput)
+		[ 4] : Line:  118	InputMethod   GetKeyDown          	(strafeInput)
+		[ 5] : Line:  124	InputMethod   GetKeyDown          	(sprintInput)
+		[ 6] : Line:  126	InputMethod   GetKeyUp            	(sprintInput)
+		[ 7] : Line:  144	InputMethod   GetKeyDown          	(jumpInput)
+
+
+1 scripts modified!
+Overwriting actual scripts...
+	[0 / 1] from  [C:/Users/Owner/Documents/GitHub/FrantzPoser/Poser/CF2-Data/Script-Backups/2021-09-19-19-20\Assets-After/\Invector-3rdPersonController_LITE\Scripts\CharacterController\vThirdPersonInput.cs] to [C:/Users/Owner/Documents/GitHub/FrantzPoser/Poser/Assets/\Invector-3rdPersonController_LITE\Scripts\CharacterController\vThirdPersonInput.cs]
+
+Overwriting COMPLETED!
